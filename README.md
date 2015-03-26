@@ -21,6 +21,10 @@ new JsbinRobot().send({
 });
 ```
 
+Open the generated url, for instance I received http://jsbin.com/videgewupa/1/edit, and you will see your data saved in jsbin:
+
+<img src="https://raw.githubusercontent.com/marcioj/jsbin-robot/master/printscreen.png">
+
 ## Running Tests
 
 Coming soon
