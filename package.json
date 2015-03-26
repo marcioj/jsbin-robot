@@ -1,6 +1,6 @@
 {
   "name": "jsbin-robot",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Use phantomjs to send code anonymously to jsbin.com",
   "main": "index.js",
   "scripts": {
